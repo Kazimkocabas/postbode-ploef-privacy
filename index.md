@@ -1,7 +1,7 @@
 # Privacyverklaring — Postbode Ploef (webversie)
 
-*Laatst bijgewerkt: [datum invullen]*
-*Uitgever: [jouw naam of bedrijfsnaam invullen]*
+*Laatst bijgewerkt: 4 september 2026
+*Uitgever: KLPA Games
 
 Zowel Google Play als de App Store vragen om een privacyverklaring die
 openbaar op internet staat. Dit is een kant-en-klare tekst die past bij wat
@@ -62,4 +62,4 @@ Verandert er iets aan deze verklaring, dan passen wij de datum bovenaan aan.
 
 ## Contact
 
-Vragen? Mail naar [jouw e-mailadres].
+Vragen? Mail naar kocabaskazim6@gmail.com.
